@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>loginAccountWithEmptyUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca595fca-bfa4-4747-8e21-089112491961</testCaseGuid>
+</TestCaseEntity>

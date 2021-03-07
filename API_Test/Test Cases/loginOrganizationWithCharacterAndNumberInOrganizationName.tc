@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>loginOrganizationWithCharacterAndNumberInOrganizationName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e81ea697-5a95-40fe-819e-cfa203de75b1</testCaseGuid>
+   <variable>
+      <defaultValue>'testonboard1212121'</defaultValue>
+      <description></description>
+      <id>f3ca2187-d859-4195-9556-a43bece90672</id>
+      <masked>false</masked>
+      <name>org_name</name>
+   </variable>
+</TestCaseEntity>

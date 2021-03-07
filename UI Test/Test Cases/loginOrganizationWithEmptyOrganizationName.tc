@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>loginOrganizationWithEmptyOrganizationName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39d06578-7807-4758-a2ec-358db98567b9</testCaseGuid>
+</TestCaseEntity>

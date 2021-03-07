@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>loginOrganizationWithCorrectOrganizationNameAndSpaces</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>22e7f70a-e515-4d6f-977a-eae453691ac8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>loginOrganizationWithIncorrectOrganizationName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>daf8f81a-6ed4-4bf1-bfd4-1381dee1110a</testCaseGuid>
+</TestCaseEntity>
